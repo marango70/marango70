@@ -1,4 +1,4 @@
-# ¡Hola, soy Mary.! 👋🚀
+# ¡Hola, soy Mary! 👋🚀
 
 Soy una **científica de datos apasionada** con un gran amor por los números y las historias que pueden contar 📊✨. Con una formación sólida en **administración y finanzas**, experiencia en **matemáticas y estadística**, y un toque creativo, me dedico a encontrar soluciones innovadoras que transforman datos complejos en **estrategias poderosas** para la toma de decisiones empresariales. 🧠🔍
 
