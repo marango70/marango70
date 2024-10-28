@@ -16,7 +16,7 @@ Siempre estoy en búsqueda de **nuevos desafíos**. Creo que los datos son el mo
   
 ### Mi stack tecnológico  👱‍♀️ 💻
 - 💻 Lenguajes: **Python**, **SQL**, **VBA**
-- 📊 Herramientas favoritas: **Power BI**, **Excel**, **Streamlit**, **FastAPI**
+- 📊 Herramientas favoritas: **Power BI**, **Excel Avanzado y Macros**, **Streamlit**, **FastAPI**
 - 🛠️ Otros: **NLP**, **Análisis de Sentimientos**, **KNN**, **Sistemas de Recomendación**
 
 ### ¿Nos conectamos? 🌍
